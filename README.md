@@ -2,6 +2,8 @@
 
 A collection of mechanical and product design projects modelled in Autodesk Fusion 360, covering parametric modelling, assemblies, enclosures, and manufacturing-ready drawings.
 
+![Fusion 360 design render](https://raw.githubusercontent.com/LegendSeyi/Fusion_Design/main/seyi_08_V4.png)
+
 ## About
 
 I'm Adeyemi Oluwaseyi, a Systems Engineering graduate (University of Lagos) focused on design engineering, with a background in smart home, IoT, and electronics builds. This repo documents my CAD work, from concept sketches to final models.
