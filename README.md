@@ -53,4 +53,4 @@ Each project folder has its own README covering:
 
 ## Contact
 
-Open to design engineering roles and collaborations. Reach me via [LinkedIn](https://linkedin.com/in/oluwaseyi-adeyemi004) or [email@example.com].
+Open to design engineering roles and collaborations. Reach me via [LinkedIn](https://linkedin.com/in/oluwaseyi-adeyemi004) or [adeyemiseyi04@gmail.com].
